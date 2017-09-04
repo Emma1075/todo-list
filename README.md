@@ -12,16 +12,16 @@
 ### 版本一
 只使用 jQuery 对 DOM 元素进行操作，实现 todo-list 的所有效果。
 
-- html 文件： `todo-list/index-version1.html`
-- js 文件：`todo-list/js/app-version1.js`
+- html 文件： `version1/index.html`
+- js 文件：`version1/js/app.js`
 
 ### 版本二
 利用 js 模板引擎 `art-template`，进行操作。
 
 > art-template github 项目地址：[art-emplate](https://github.com/aui/art-template)
 
-- html 文件： `todo-list/index-version2.html`
-- js 文件：`todo-list/js/app-version2.js`
+- html 文件： `version2/index.html`
+- js 文件：`version2/js/app.js`
 
 版本二对比版本一的优势：由操作 dom 改为操作数据，极大地提高了页面性能。
 
