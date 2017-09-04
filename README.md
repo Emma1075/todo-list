@@ -28,7 +28,3 @@
 [项目效果](http://www.sugar1075.online/todo-list/version2/index.html)
 
 版本二对比版本一的优势：由操作 DOM 改为直接操作数据（减少了对DOM 的操作），极大地提高了页面性能。
-
----
-
-注：`index.html`为默认文件，内容与版本一`index-version1.html`相同。
