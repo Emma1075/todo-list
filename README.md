@@ -15,6 +15,8 @@
 - html 文件： `version1/index.html`
 - js 文件：`version1/js/app.js`
 
+[项目效果](http://www.sugar1075.online/todo-list/version1/index.html)
+
 ### 版本二
 利用 js 模板引擎 `art-template`，进行操作。
 
@@ -22,6 +24,8 @@
 
 - html 文件： `version2/index.html`
 - js 文件：`version2/js/app.js`
+
+[项目效果](http://www.sugar1075.online/todo-list/version2/index.html)
 
 版本二对比版本一的优势：由操作 DOM 改为直接操作数据（减少了对DOM 的操作），极大地提高了页面性能。
 

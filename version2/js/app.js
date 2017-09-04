@@ -12,8 +12,8 @@
 			name: 'use art-template',
 			completed: false
 		}, {
-			name: 'task3',
-			completed: true
+			name: '使用 js 模板引擎',
+			completed: false
 		}]
 	}
 
